@@ -1,17 +1,11 @@
 {
   "entity": {
     "sensor": {
-      "aqi": {
-        "default": "mdi:blur"
-      },
-      "pm25": {
-        "default": "mdi:blur"
-      },
       "o3": {
-        "default": "mdi:blur"
+        "default": "mdi:molecule"
       },
       "station": {
-        "default": "mdi:blur"
+        "default": "mdi:map-marker"
       }
     }
   }
